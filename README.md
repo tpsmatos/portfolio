@@ -1,4 +1,4 @@
-Primeiro desafio do Challenge Front End ONE Alura. Nessa sprint eu trabalhei na construção de um portfólio através de um modelo disponibilizado no figma. Requisitos do desafio:
+Primeiro desafio do Challenge Front End ONE Alura. Nessa sprint eu trabalhei na construção de um portfólio através de um modelo disponibilizado no Figma. Requisitos do desafio:
 
 - Deve ter um menu de navegação;
 - Deve ter uma imagem que servirá de banner;
